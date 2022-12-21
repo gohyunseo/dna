@@ -1,0 +1,35 @@
+optuna
+
+cv=5, n_rounds=30, n_trials=4
+0.96176
+
+cv=6, n_rounds=30, n_trials=4
+0.95807
+
+cv=7, n_rounds=30, n_trials=4
+0.96942
+
+cv=7, n_rounds=30, n_trials=3
+0.96180
+
+cv=7, n_rounds=40, n_trials=4
+0.96556
+
+cv=7, n_rounds=30, n_trials=5
+0.96932
+
+cv=7, n_rounds=30, n_trials=6
+0.96556
+
+cv=7, n_rounds=30, n_trials=7
+0.96942
+
+cv=7, n_rounds=40, n_trials=7
+0.96566
+
+cv=7, n_rounds=30, n_trials=8
+0.96566
+
+cv=8, n_rounds=30, n_trials=4
+0.96200
+
